@@ -1,0 +1,1 @@
+- Vite: Ferramenta que faz o trabalho do webpack e babel ao mesmo tempo, ou seja converte javascript para uma versão mais antiga (maior compatibilidade) e empacota os arquivos do projeto.
